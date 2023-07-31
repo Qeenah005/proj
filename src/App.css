@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,90 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.clas{
+  background-color: rgb(160, 214, 214);
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.back {
+  z-index: -1;
+  position: absolute;
+  width: 100%;
+  filter: blur(15px);
+  margin-top:-5%;
+  height: 100%;
+}
+
+.top {
+  filter: brightness(100%);
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  margin-top: 2%;
+}
+.i{  margin-top: 5%;
+    width: 100%;
+}
+
+.u{
+  width: 100%;
+  margin-top: 10%;
+}
+.qe{
+  width: 400px;
+  margin-top: 5%;
+  border-radius: 90%;
+  height: 390px;
+}
+.qee{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 60%;
+  margin: 0px auto;
+}
+.wa{
+  margin-top: 20%;
+  margin-left: 10%;
+  font-family: 'Times New Roman', Times, serif;
+}
+.dev{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.im{
+  width: 10%;
+  margin-left: 10%;
+  border-radius: 15px;
+  height: 12%;
+}
+.lin{
+  margin-left: 10%;
+  color: rgb(12, 75, 75);
+}
+.nav-item{
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.con{
+  background-color:rgb(12, 75, 75); 
+  text-align: center;
+  width: 50%;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 27%;
+}
+.no{
+  background-color: rgb(160, 214, 214);
+  width: 50%;
+  margin-top:-8px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+  margin-left: 27%;
 }
