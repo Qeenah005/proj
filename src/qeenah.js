@@ -12,13 +12,13 @@ function Qeenah(){
             </button>
             <div><h2>Project</h2></div>
             
-            <div className="offcanvas offcanvas-start" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+            <div className="offcanvas" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
                 <div className="offcanvas-header">
                     <span> </span>
-                    <button type="button" className="btn-close text-reset" data-bs-dismiss="offcanvas"
+                    <button type="button" className="btn-close" data-bs-dismiss="offcanvas"
                         aria-label="Close"></button>
                 </div>
-                <div className="offcanvas-body"></div>
+               
                 
                 <ul className="navbar-nav justify-content-end flex-grow-1 pe-5">
                  <li className="nav-item">
