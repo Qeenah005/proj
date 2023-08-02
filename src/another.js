@@ -10,7 +10,7 @@ function Another(){
             <h1 className='wa'>
                 I'm Wahab Sekinat O.
             </h1>
-            <p className='dev'><img className="im" src='qee.jpg'></img> A FrontEnd developer</p>
+            <p className='dev'><img className="im" src='qee.JPG'></img> A FrontEnd developer</p>
             <p className='dev'><img className="im" src='bri.png'></img> A Student of Valumax Communication</p>
             <p className='dev'><img className="im" src='shine.png'></img> To know more about me click on next link</p>
 
