@@ -81,6 +81,7 @@
   justify-content: space-between;
   width: 60%;
   margin: 0px auto;
+  
 }
 .wa{
   margin-top: 20%;
@@ -126,6 +127,9 @@
   .qee{
   flex-direction: column;
   width: 100%; 
+  background-color: black;
+  color: white;
+  
   }
   .wa{
     margin-top: 10%;
@@ -151,11 +155,11 @@
 
   .clas{
     overflow-y: auto;
+    
   }
   .top {    
-    font-size: 20px;
-    
-    
-   
+    font-size: 20px;   
   }
+
+  
 }
